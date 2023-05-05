@@ -1,0 +1,25 @@
+{
+  "short_name": "Bo$$LadyXchange",
+  "name": "Best deals on exchange of all kinds",
+  "icons": [
+    {
+      "src": "bl_white.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "bl_white.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "bl_white.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#001736",
+  "background_color": "#001736"
+}
